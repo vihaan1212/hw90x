@@ -1,0 +1,8 @@
+#output{
+    background: white;
+    border-radius: 5px;
+    border-top: 5px solid blueviolet;
+    padding: 10;
+    float: none;
+    text-align: left;
+}
